@@ -27,19 +27,14 @@ p{
 }
 
 
-.knapper {
-  font-size: 1.2em;       
-  padding: 12px 24px;        
-  background-color: #a0522d; 
+#forrigeKnapp,
+#nesteKnapp {
+  font-size: 1.4em;
+  padding: 12px 24px;
+  background-color: #a0522d;
   color: white;
   border: none;
   border-radius: 8px;
   cursor: pointer;
   margin: 10px;
-  transition: background-color 0.3s ease;
 }
-
-.knapp:hover {
-  background-color: #000000;  
-}
-
