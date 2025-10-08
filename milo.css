@@ -30,11 +30,13 @@ p{
 #forrigeKnapp,
 #nesteKnapp {
   font-size: 1.4em;
+  text-align: center;
   padding: 12px 24px;
-  background-color: #a0522d;
-  color: white;
+  background-color: #400400;
+  color: #000000;
   border: none;
   border-radius: 8px;
   cursor: pointer;
   margin: 10px;
 }
+
